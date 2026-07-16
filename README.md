@@ -86,7 +86,7 @@ A companion web platform to screen and analyze stocks using financial ratios and
 ### 🏠 Home — Market Overview
 Total stocks, trading volume trends, top stocks by average closing price, and trading volume distribution across the NIFTY 50.
 
-<img src="./assets/images/Home.png" alt="Home Dashboard" width="100%">
+<img src="Home.png" alt="Home Dashboard" width="100%">
 
 </td>
 </tr>
@@ -96,7 +96,7 @@ Total stocks, trading volume trends, top stocks by average closing price, and tr
 ### 📊 Analysis — Sector & Stock Performance
 Sector-wise total return, stock health score, OHLC price summary, and deliverable volume vs. annual variability.
 
-<img src="./assets/images/Analysiss.png" alt="Analysis Dashboard" width="100%">
+<img src="Analysiss.png" alt="Analysis Dashboard" width="100%">
 
 </td>
 </tr>
@@ -106,7 +106,7 @@ Sector-wise total return, stock health score, OHLC price summary, and deliverabl
 ### 🧠 Insights — Executive Strategic Report
 Market growth overview, sector performance, top performing stocks, COVID-19 crash & recovery analysis, and strategic takeaways.
 
-<img src="./assets/images/Insightsreport.png" alt="Insights Report" width="100%">
+<img src="Insightsreport.png" alt="Insights Report" width="100%">
 
 </td>
 </tr>
